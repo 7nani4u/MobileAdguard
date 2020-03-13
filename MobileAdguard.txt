@@ -122,6 +122,10 @@
 ||free-video-movie.com^
 ||garss.tv^
 ||geniee.jp^
+||genieedmp.com^
+||glam.com^
+||global.msmtrakk06d.com^
+||glssp.jp^
 
 
 !-------------------------------------------------------------------------
