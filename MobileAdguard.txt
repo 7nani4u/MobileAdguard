@@ -112,6 +112,9 @@
 ||dtscout.com^
 ||emailretargeting.com^
 ||etc.atja.jp^
+||exaf.jp^
+||exit-ad.com^
+||feed.mikle.com^
 
 !-------------------------------------------------------------------------
 
