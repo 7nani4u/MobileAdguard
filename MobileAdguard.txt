@@ -163,6 +163,10 @@
 ||media.gssp.asia^
 ||mediad.co.jp^
 ||mediaweaver.jp^
+||minero-proxy-0*.now.sh^
+||moras.jp^
+||mttag.com^
+||niconicoav.com^
 
 !-------------------------------------------------------------------------
 
