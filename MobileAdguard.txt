@@ -139,7 +139,30 @@
 ||imgcdn01.formulas.jp^
 ||ingameads2.gameloft.com^
 ||inmobisdk-a.akamaihd.net^
-
+||j.gmodmp.jp^
+||j.image-ad.jp^
+||j.zucks.net.zimg.jp^
+||js.impact.ne.jp^
+||js.isboost.co.jp^
+||js.mediams.mb.softbank.jp^
+||js.monetize-ssp.com^
+||js.passaro-de-fogo.biz^
+||js.wizeraz.net^
+||koukoku.red^
+||ktai.pw^
+||leadin.com^
+||livead.jp^
+||livelog.biz^
+||log000.goo.ne.jp^
+||lp.vasta.co.jp^
+||maad.maru.jp^
+||measure.ameblo.jp^
+||medi-8.net^
+||media-api.maio.jp^
+||media.fc2.com^
+||media.gssp.asia^
+||mediad.co.jp^
+||mediaweaver.jp^
 
 !-------------------------------------------------------------------------
 
