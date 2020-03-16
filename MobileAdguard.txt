@@ -1,15 +1,9 @@
 # 280blocker adblock domain lists AdGuard_format
 # 
-# Homepage: https://280blocker.net
-# Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
-# 
-# It's created for Japanese user of domain block.
-# Subdomain is not described. 
-# Please use it in a system that can block subdomains.
+# Homepage: https://280blocker.net/files/280blocker_domain_ag.txt
 #
 # Lastupdate: 2020-03-12
 #
-
 ||100651.advision-adnw.jp^
 ||2.chmato.me^
 ||4clvr.jp^
@@ -313,10 +307,45 @@
 ||img.aread.site^
 ||i.popincdn.com^
 ||js.batis.vip^
-
-!-------------------------------------------------------------------------
-
-
+||x-storage-a1.cir.io^
+||spot-01.trackingpro.pro^
+||d2swpuhpwp3khd.cloudfront.net^
+||nxcount.com^
+||js.winc-ad.com^
+||fam-8.net^
+||ad.rarure.com^
+||s.storage-ad.com^
+||dis.hogei.info^
+||pr.hogei.info^
+||ads.mulan.cloud^
+||line-cross.com^
+||invocation.cheqzone.com^
+||abema-adx.ameba.jp^
+||js.rush-member.com^
+||goliath.bi.miniclippt.com^
+||ad.2ch.live^
+||nt.compass-fit.jp^
+||promo.verajohn.com^
+||bestlandcn.com^
+||alxc.addlv.smt.docomo.ne.jp^
+||cdnprism.pandora.tv^
+||demand.supply^
+||reajyu.net^
+||api.kaiu-marketing.com^
+||adpon-prd-asset.sslcs.cdngc.net^
+||aoyou.idealads.net^
+||tracking.yohoads.com^
+||clk.furthermoreads.com^
+||ads.mobring.co^
+||ads.adorca.com^
+||img.gs-ad.jp^
+||tag.vlitag.com^
+||neppa-dsp-ad.com^
+||cdn.neppa-adsv.com^
+||ads-delivery.gunosy.com^
+||thofigdot.club^
+||statcounter.com^
+||realtime-bid.com^
 !-------------------------------------------------------------------------
 # Basic tracking list by Disconnect
 # License: GPLv3
