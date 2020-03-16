@@ -1,5 +1,5 @@
 ﻿! --------------------------------------------
-! Title: Energized Spark Protection
+! Title: Energized Spark Protection (Optimized)
 ! Description: True Lite Protection Pack.
 ! Format: adblock
 ! Version: 20.03.073
