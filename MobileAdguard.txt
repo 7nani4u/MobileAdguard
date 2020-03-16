@@ -186,7 +186,41 @@
 ||push7.jp^
 ||quant.jp^
 ||quantcast.com^
+||r.profilepassport.jp^
+||redge-a.akamaihd.net^
+||rokushiki.nefficient.jp^
+||rss-loader.com^
+||s.pagoda56.com^
+||s3.mobile.val.jp^
+||sda.seesaa.jp^
+||seedapp-creative.s3.amazonaws.com^
+||simplereach.com^
+||smart-ad.sakura.ne.jp^
+||smartaccess.biz^
+||smartad-analytics.info^
+||smartads.mobile.yahoo.co.jp^
+||smartcanvas.net^
+||smartnews-ads.com^
+||soraad.jp^
+||sp.eroido.jp^
+||spacenine.biz^
+||speead.jp^
 
+||stab.thench.net^
+||statsp.fpop.net^
+||stimg.iand2ch.net^
+||stimg.thench.net^
+||stimgc.iand2ch.net^
+||stimgc.thench.net^
+||sumapo.org^
+||sync-tapi.admatrix.jp^
+||taponejs-184e.kxcdn.com^
+||taxel.jp^
+||tm.r-ad.ne.jp^
+||tm2.r-ad.ne.jp^
+||trace.690.co^
+||trackfeed.com^
+||uncn.jp^
 
 !-------------------------------------------------------------------------
 
