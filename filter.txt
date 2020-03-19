@@ -1,4 +1,9 @@
-﻿!-- 2020.03.01 a
+﻿﻿! --------------------------------------------
+! Title: /unflac/adFILTER
+! Description: adFILTER
+! *** Fetched from: https://raw.githubusercontent.com/unflac/adFILTER/master/filter.txt ***
+! --------------------------------------------
+!-- 2020.03.01 a
 
 !--통합
 
@@ -1075,7 +1080,6 @@ etoland.co.kr###mobonDivBanner_16909
 etoland.co.kr###mobonDivBanner_16910
 etoland.co.kr###mobonDivBanner_16912
 
-
 !-- 시네스트
 
 cineaste.co.kr###sky
@@ -1126,54 +1130,6 @@ clien.net###naverAd2
 11st.co.kr##.ad_warp
 11st.co.kr##.prom_bnr
 11st.co.kr##.Buywrite_ban_v2
-
-!-- 지디넷
-
-adv.zdnet.co.kr
-zdnet.co.kr/ads/*
-
-zdnet.co.kr###main_right_Floating_banner
-zdnet.co.kr###extruderRight
-zdnet.co.kr##div.right_bn1
-zdnet.co.kr##div.right_bn2
-zdnet.co.kr##div.right_bn3
-zdnet.co.kr##div.right_bn4
-zdnet.co.kr##div.right_bn5
-zdnet.co.kr##div.right_bn6
-zdnet.co.kr##div.right_bn7
-zdnet.co.kr##div.right_bn8
-zdnet.co.kr##div.right_bn9
-zdnet.co.kr##.right_bn1
-zdnet.co.kr##.right_bn2
-zdnet.co.kr##.right_bn3
-zdnet.co.kr##.right_bn4
-zdnet.co.kr##.right_bn5
-zdnet.co.kr##.right_bn6
-zdnet.co.kr##.right_bn7
-zdnet.co.kr##.right_bn8
-zdnet.co.kr##.right_bn9
-zdnet.co.kr###divMenu1
-zdnet.co.kr###divMenu2
-zdnet.co.kr###divMenu3
-zdnet.co.kr###divMenu4
-zdnet.co.kr###divMenu5
-zdnet.co.kr###divMenu6
-zdnet.co.kr###divMenu7
-zdnet.co.kr###divMenu8
-zdnet.co.kr###divMenu9
-zdnet.co.kr##.top_ad
-zdnet.co.kr##ul.ad_list
-zdnet.co.kr###divMenu
-zdnet.co.kr###scrollDiv
-zdnet.co.kr##.view_ad
-zdnet.co.kr##.ad_bn1
-zdnet.co.kr###livereAd
-zdnet.co.kr##.con_bn_box
-zdnet.co.kr##.hide_bk
-zdnet.co.kr##.interplay
-zdnet.co.kr###NeoInteractiveScreenViewLayer
-zdnet.co.kr##div.view_ad_1
-zdnet.co.kr##.power_center
 
 !-- 옥션
 
@@ -1290,7 +1246,7 @@ chosun.com##.art_ad1
 chosun.com##.art_ad2
 chosun.com##.ad_m_bottom
 
-!-- 헝그리앱
+!-- reddit
 
 reddit.com##.eSMtzD.kkicq7-0
 reddit.com###sidebar-atf-0
