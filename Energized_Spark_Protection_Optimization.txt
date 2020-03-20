@@ -2446,6 +2446,7 @@
 ||adshost2.com^
 ||adshot.de^
 ||adshowcase.verizonmedia.com^
+||ad-mapps.com^
 ||adside.com^
 ||adsiduous.com^
 ||adsignals.com^
@@ -2709,6 +2710,7 @@
 ||adverterenbijsbs.nl^
 ||advertica.ae^
 ||advertica-cdn.com^
+||adinc.kr^
 ||adverticum.com^
 ||adverticum.net^
 ||adverticus.de^
@@ -2858,6 +2860,7 @@
 ||adxpremium.com^
 ||adxprts.com^
 ||adxprtz.com^
+||adplex.co.kr^
 ||adxscope.com^
 ||adx-static.ksosoft.com^
 ||adxtro.com^
@@ -2884,6 +2887,7 @@
 ||adzone.fractionalmedia.com^
 ||adzones.com^
 ||adzouk.com^
+||ads.mncmedia.co.kr^
 ||adzpower.com^
 ||adzs.nl^
 ||adztar.fusetracking.com^
@@ -18027,6 +18031,7 @@
 ||porndroids.com^
 ||pornglee.com^
 ||porngraph.com^
+||popin.cc^
 ||porngray.com^
 ||pornimg.xyz^
 ||pornobomba.cc^
