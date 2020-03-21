@@ -739,7 +739,6 @@ graph-video.
 ||pagead2.googlesyndication.com^
 ||put.diana.kakao.com^
 ||qr.kakaopay.com^
-
 ||www.googleadservices.com/pagead^
 ||www.googleapis.com/auth^
 ||imasdk.googleapis.com^
@@ -759,4 +758,10 @@ graph-video.
 ||pincrux.com^
 ||cloudmersive.com^
 ||box.com^
-||info.ad.daum.net/optouten.do^
+||info.ad.daum.net^
+||map3.daum.net^
+||display-test.ad.daum.net^
+||fiy.kakao.com^
+||cs-center.kakao.com^
+||cbt-bus.devel.kakao.com^
+||sandbox-bus.kakao.com^
