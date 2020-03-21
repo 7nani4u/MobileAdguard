@@ -1,4 +1,7 @@
-! User blocking filter ------------------------------
+﻿! --------------------------------------------
+! Title: User Filter Optimized
+! Description: User Filter (Optimized)
+! User blocking filter -----------------------
 !-------- Daum
 ||tiara.daum.net^
 ||kyson.ad.g.daum.net^
