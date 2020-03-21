@@ -764,4 +764,7 @@ graph-video.
 ||fiy.kakao.com^
 ||cs-center.kakao.com^
 ||cbt-bus.devel.kakao.com^
-||sandbox-bus.kakao.com^
+||applvn.com^
+||applovin.com^
+||api.bugfender.com^
+||pubnative.net^
