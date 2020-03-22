@@ -291,7 +291,6 @@ $popup,third-party
 ||fkp.samsungcloudsolution.net^
 ||openapi.samsung.com^
 !----------Top Level Domains----------
-||*.buzz
 ||*.cf
 ||*.fit
 ||*.gq
