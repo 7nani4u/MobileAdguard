@@ -7308,6 +7308,7 @@
 ||contentwidgets.net^
 ||contentz.mkt51.net^
 ||contentz.mkt61.net^
+||cbbp1.com^
 ||contentz.mkt912.com^
 ||contentz.mkt932.com^
 ||contentz.mkt941.com^
@@ -12905,6 +12906,7 @@
 ||indofad.com^
 ||indus.iad-01.braze.com^
 ||industrie-fanshop.de^
+||iwanttodeliver.com^
 ||inentasky.com^
 ||inetlog.ru^
 ||inetsiteworld.de^
@@ -15134,6 +15136,7 @@
 ||media-aws01.inloop.com^
 ||media-b.jp^
 ||media-black.store^
+||maist.jp^
 ||media-blue.online^
 ||media-blue.shop^
 ||media-blue.store^
@@ -21916,6 +21919,7 @@
 ||terrapush.com^
 ||terrasdsdstd.com^
 ||terratraf.com^
+||textad.net^
 ||terriblethumb.com^
 ||tertlarenritted.pro^
 ||terttalkinhitin.pro^
