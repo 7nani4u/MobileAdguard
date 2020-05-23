@@ -16947,6 +16947,7 @@
 ||omniscientspark.com^
 ||omnisphero.com^
 ||omoaxaus.net^
+||omtrdc.net^
 ||omynews.net^
 ||on.maxspeedcdn.com^
 ||onamind.com^
