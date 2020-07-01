@@ -26032,3 +26032,9 @@
 ||zocker.shop^
 ||zockerversand.de^
 ||widerplanet.com^
+||gtb5.acecounter.com^
+||gtb19.acecounter.com^
+||gtcc1.acecounter.com^
+||gtp1.acecounter.com^
+||gtp16.acecounter.com^
+||wgc1.acecounter.com^
