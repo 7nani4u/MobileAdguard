@@ -672,7 +672,6 @@ $popup,third-party
 @@||app.appsflyer.com^
 @@||cdn.engine.phn.doublepimp.com^
 @@||cdn-ad-static.buzzvil.com^
-@@||cdn-jav-videos-2.cdntrex.com^
 @@||dyljc1073lig5.cloudfront.net^
 @@||e.crashlytics.com^
 @@||googletagmanager.com/gtag/js$script
@@ -685,9 +684,10 @@ $popup,third-party
 @@||ssl.gstatic.com^
 @@||ssl-ccstatic.highwebmedia.com^
 @@||static.zotabox.com^
-@@||syndication.exosrv.com/splash.php
 @@||tpc.googlesyndication.com^
-@@||track.bannerbridge.net^
+@@||adimg.daumcdn.net^$app=mark.via,important
+@@||bc.ad.daum.net^$app=mark.via,important
+@@||cdn-aitg.widerplanet.com^$app=mark.via,important
 !-------------------------------------------------------------------------
 @@||ajax.googleapis.com^
 @@||ajax.aspnetcdn.com^
@@ -1164,6 +1164,14 @@ graph-video.
 ||upgrade.spotify.com^
 ||weblb-wg.gslb.spotify.com^
 ||maver.com^
+||demandbase.com^
+||www.gravatar.com^
+||snap.licdn.com^
+||hjr5sr3a78wyt6fiusektg2afjhhga3wutw87sgs.xyz^
+||side.mythiell.com^
+||cdn.branch.io^
+||spclient.wg.spotify.com^
+||torimochi.line-apps.com^
 #########################################################################################
 ##  This RegEX statements will block Facebook Tracking Domains
 ##  Each statement should be all on one line.
