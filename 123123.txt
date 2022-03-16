@@ -1,2 +1,2 @@
-||imgcloud12.net
+||imgcloud12.net^
 ||imgcloud12.net/*.gif
